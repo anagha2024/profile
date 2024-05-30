@@ -1,0 +1,70 @@
+Log created: 2024-05-29 21:13:46
+Type: backup
+[2024-05-29 21:13:47][notice]Start backing up.
+[2024-05-29 21:13:47][notice]server info fcgi:Off max execution time: 300 wp version:6.5.3 php version:8.2.12 db version:10.4.32 php ini:safe_mode: memory_limit:256M memory_get_usage:80.64 MB memory_get_peak_usage:81.46 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2024-05-29 21:13:47][notice]Prepare to backup backup_db files.
+[2024-05-29 21:13:47][notice]Start exporting database.
+[2024-05-29 21:13:47][notice]Preparing to dump table wp_addonlibrary_addons
+[2024-05-29 21:13:47][notice]Preparing to dump table wp_addonlibrary_categories
+[2024-05-29 21:13:47][notice]Preparing to dump table wp_e_events
+[2024-05-29 21:13:47][notice]Preparing to dump table wp_links
+[2024-05-29 21:13:47][notice]Preparing to dump table wp_term_relationships
+[2024-05-29 21:13:47][notice]Preparing to dump table wp_commentmeta
+[2024-05-29 21:13:47][notice]Preparing to dump table wp_term_taxonomy
+[2024-05-29 21:13:47][notice]Preparing to dump table wp_termmeta
+[2024-05-29 21:13:47][notice]Preparing to dump table wp_terms
+[2024-05-29 21:13:47][notice]Preparing to dump table wp_usermeta
+[2024-05-29 21:13:47][notice]Preparing to dump table wp_users
+[2024-05-29 21:13:47][notice]Preparing to dump table wp_comments
+[2024-05-29 21:13:47][notice]Preparing to dump table wp_options
+[2024-05-29 21:13:47][notice]Preparing to dump table wp_posts
+[2024-05-29 21:13:48][notice]Preparing to dump table wp_postmeta
+[2024-05-29 21:13:49][notice]Exporting database finished.
+[2024-05-29 21:13:49][notice]Start compressing database
+[2024-05-29 21:13:49][notice]Prepare to zip file. file: localhost_portfolio_wpvivid-66579a8a6183f_2024-05-29-21-13_backup_db.sql
+[2024-05-29 21:13:50][notice]Adding zip files completed.localhost_portfolio_wpvivid-66579a8a6183f_2024-05-29-21-13_backup_db.part001.zip, filesize: 4.40 MB
+[2024-05-29 21:13:50][notice]Compressing database completed
+[2024-05-29 21:13:50][notice]Backing up backup_db completed.
+[2024-05-29 21:13:50][notice]Prepare to backup backup_themes files.
+[2024-05-29 21:13:50][notice]Compressing zip file:localhost_portfolio_wpvivid-66579a8a6183f_2024-05-29-21-13_backup_themes.part001.zip index:23
+[2024-05-29 21:13:50][notice]Compressing zip file:localhost_portfolio_wpvivid-66579a8a6183f_2024-05-29-21-13_backup_themes.part001.zip success. index:23 file size:2.02 MB
+[2024-05-29 21:13:50][notice]Backing up backup_themes completed.
+[2024-05-29 21:13:50][notice]Prepare to backup backup_plugin files.
+[2024-05-29 21:13:52][notice]Compressing zip file:localhost_portfolio_wpvivid-66579a8a6183f_2024-05-29-21-13_backup_plugin.part001.zip index:3832
+[2024-05-29 21:14:57][notice]Compressing zip file:localhost_portfolio_wpvivid-66579a8a6183f_2024-05-29-21-13_backup_plugin.part001.zip success. index:3832 file size:100.19 MB
+[2024-05-29 21:14:57][notice]Backing up backup_plugin completed.
+[2024-05-29 21:14:57][notice]Prepare to backup backup_uploads files.
+[2024-05-29 21:14:57][notice]Compressing zip file:localhost_portfolio_wpvivid-66579a8a6183f_2024-05-29-21-13_backup_uploads.part001.zip index:110
+[2024-05-29 21:15:00][notice]Compressing zip file:localhost_portfolio_wpvivid-66579a8a6183f_2024-05-29-21-13_backup_uploads.part001.zip success. index:110 file size:200.61 MB
+[2024-05-29 21:15:00][notice]Compressing zip file:localhost_portfolio_wpvivid-66579a8a6183f_2024-05-29-21-13_backup_uploads.part002.zip index:186
+[2024-05-29 21:15:04][notice]Compressing zip file:localhost_portfolio_wpvivid-66579a8a6183f_2024-05-29-21-13_backup_uploads.part002.zip success. index:186 file size:204.49 MB
+[2024-05-29 21:15:04][notice]Compressing zip file:localhost_portfolio_wpvivid-66579a8a6183f_2024-05-29-21-13_backup_uploads.part003.zip index:292
+[2024-05-29 21:15:06][notice]Compressing zip file:localhost_portfolio_wpvivid-66579a8a6183f_2024-05-29-21-13_backup_uploads.part003.zip success. index:292 file size:88.52 MB
+[2024-05-29 21:15:06][notice]Backing up backup_uploads completed.
+[2024-05-29 21:15:06][notice]Prepare to backup backup_content files.
+[2024-05-29 21:15:06][notice]Compressing zip file:localhost_portfolio_wpvivid-66579a8a6183f_2024-05-29-21-13_backup_content.part001.zip index:1
+[2024-05-29 21:15:06][notice]Compressing zip file:localhost_portfolio_wpvivid-66579a8a6183f_2024-05-29-21-13_backup_content.part001.zip success. index:1 file size:421.00 B
+[2024-05-29 21:15:06][notice]Backing up backup_content completed.
+[2024-05-29 21:15:06][notice]Prepare to backup backup_core files.
+[2024-05-29 21:15:07][notice]Compressing zip file:localhost_portfolio_wpvivid-66579a8a6183f_2024-05-29-21-13_backup_core.part001.zip index:2669
+[2024-05-29 21:16:06][notice]Compressing zip file:localhost_portfolio_wpvivid-66579a8a6183f_2024-05-29-21-13_backup_core.part001.zip success. index:2669 file size:55.08 MB
+[2024-05-29 21:16:06][notice]Backing up backup_core completed.
+[2024-05-29 21:16:06][notice]Prepare to backup backup_merge files.
+[2024-05-29 21:16:06][notice]Prepare to zip file. file: localhost_portfolio_wpvivid-66579a8a6183f_2024-05-29-21-13_backup_db.zip
+[2024-05-29 21:16:06][notice]Adding zip files completed.localhost_portfolio_wpvivid-66579a8a6183f_2024-05-29-21-13_backup_all.part001.zip, filesize: 4.40 MB
+[2024-05-29 21:16:06][notice]Prepare to zip file. file: localhost_portfolio_wpvivid-66579a8a6183f_2024-05-29-21-13_backup_themes.zip
+[2024-05-29 21:16:06][notice]Adding zip files completed.localhost_portfolio_wpvivid-66579a8a6183f_2024-05-29-21-13_backup_all.part001.zip, filesize: 6.42 MB
+[2024-05-29 21:16:06][notice]Prepare to zip file. file: localhost_portfolio_wpvivid-66579a8a6183f_2024-05-29-21-13_backup_plugin.zip
+[2024-05-29 21:16:10][notice]Adding zip files completed.localhost_portfolio_wpvivid-66579a8a6183f_2024-05-29-21-13_backup_all.part001.zip, filesize: 34.27 MB
+[2024-05-29 21:16:10][notice]Prepare to zip file. file: localhost_portfolio_wpvivid-66579a8a6183f_2024-05-29-21-13_backup_uploads.part001.zip
+[2024-05-29 21:16:20][notice]Adding zip files completed.localhost_portfolio_wpvivid-66579a8a6183f_2024-05-29-21-13_backup_all.part001.zip, filesize: 232.77 MB
+[2024-05-29 21:16:23][notice]Prepare to zip file. file: localhost_portfolio_wpvivid-66579a8a6183f_2024-05-29-21-13_backup_uploads.part002.zip
+[2024-05-29 21:16:33][notice]Adding zip files completed.localhost_portfolio_wpvivid-66579a8a6183f_2024-05-29-21-13_backup_all.part002.zip, filesize: 203.08 MB
+[2024-05-29 21:16:34][notice]Prepare to zip file. file: localhost_portfolio_wpvivid-66579a8a6183f_2024-05-29-21-13_backup_uploads.part003.zip
+[2024-05-29 21:16:39][notice]Adding zip files completed.localhost_portfolio_wpvivid-66579a8a6183f_2024-05-29-21-13_backup_all.part003.zip, filesize: 85.66 MB
+[2024-05-29 21:16:39][notice]Prepare to zip file. file: localhost_portfolio_wpvivid-66579a8a6183f_2024-05-29-21-13_backup_content.zip
+[2024-05-29 21:16:39][notice]Adding zip files completed.localhost_portfolio_wpvivid-66579a8a6183f_2024-05-29-21-13_backup_all.part003.zip, filesize: 85.66 MB
+[2024-05-29 21:16:39][notice]Prepare to zip file. file: localhost_portfolio_wpvivid-66579a8a6183f_2024-05-29-21-13_backup_core.zip
+[2024-05-29 21:16:41][notice]Adding zip files completed.localhost_portfolio_wpvivid-66579a8a6183f_2024-05-29-21-13_backup_all.part003.zip, filesize: 98.19 MB
+[2024-05-29 21:16:42][notice]Backing up backup_merge completed.
+[2024-05-29 21:16:42][notice]Backup completed.
